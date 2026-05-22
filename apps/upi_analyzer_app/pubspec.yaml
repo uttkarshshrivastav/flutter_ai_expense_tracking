@@ -1,0 +1,35 @@
+name: upi_analyzer_app
+description: AI UPI Analyzer - A financial tracking application
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.8.0 <4.0.0'
+  flutter: ">=3.16.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.3
+  bloc: ^8.1.0
+  sqflite: ^2.3.0
+  fl_chart: 1.2.0
+  json_serializable: ^6.7.0
+  permission_handler: ^11.0.0
+  path_provider: ^2.1.1
+  path: ^1.8.0
+  http: ^1.1.0
+  upi_parser_ai:
+    path: ../../packages/upi_parser_ai
+  flutter_dotenv: ^6.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  build_runner: ^2.4.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - .env

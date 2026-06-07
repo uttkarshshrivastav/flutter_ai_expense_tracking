@@ -1,7 +1,8 @@
 name: upi_parser_ai
 description: A Dart package for parsing UPI transactions and PII sanitization.
 version: 0.1.0
-homepage:
+homepage: https://github.com/yourusername/upi_parser_ai # Replace with your actual repo URL
+publish_to: 'https://pub.dev'
 
 environment:
   sdk: '>=3.8.0 <4.0.0'

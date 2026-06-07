@@ -22,3 +22,5 @@ key setup, Android notification access, and dummy-data reset instructions.
 
 DEMO VIDEO-->https://drive.google.com/drive/folders/1YqTJVFmMMb0TEMpBZLfj139YGEfimaKJ?usp=drive_link
 my emulator was not working so have uploded the video of screen recording 
+
+package_link = https://pub.dev/packages/upi_parser_ai

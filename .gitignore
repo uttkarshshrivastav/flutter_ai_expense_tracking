@@ -64,3 +64,4 @@ opencode.json
 # Nested Android paths
 **/.gradle/
 **/local.properties
+!CHANGELOG.md

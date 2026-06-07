@@ -10,6 +10,7 @@
 .buildlog/
 .history
 .svn/
+!CHANGELOG.md
 
 # Flutter/Dart/Pub related
 .dart_tool/
@@ -62,6 +63,3 @@ opencode.json
 .flutter-plugins-dependencies
 
 # Nested Android paths
-**/.gradle/
-**/local.properties
-!CHANGELOG.md

@@ -17,5 +17,8 @@ flutter run -d <android-device-id>
 Demo data is enabled by default, so the Review and Analytics tabs are populated
 immediately for video recording.
 
-See [apps/upi_analyzer_app/setup.md](apps/upi_analyzer_app/setup.md) for Groq
+See [apps/upi_analyzer_app/setup.md](apps/upi_analyzer_app/README.md) for Groq
 key setup, Android notification access, and dummy-data reset instructions.
+
+DEMO VIDEO-->https://drive.google.com/drive/folders/1YqTJVFmMMb0TEMpBZLfj139YGEfimaKJ?usp=drive_link
+my emulator was not working so have uploded the video of screen recording 
